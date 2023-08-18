@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/elbek-abdurahimov123/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/Uzmu_haker007"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.instagram.com/abdurahimovelbek111"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
-<a href="https://www.facebook.com/abdurahimovelbek111"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/elbek.abdurahimov.39"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 <h1> 👨🏻‍💻 Me now </h1>
 
