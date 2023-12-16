@@ -27,7 +27,7 @@
 <h1>🛠 Me Stack</h1>
 
 - 💻 &nbsp; `.c` | `.cpp` | `.cs` | `.py` | `.sh` | `.yml` | `.html` | `.css` | `.js`
-- 🌐 &nbsp; .NET 7/6/5/3 | MVC | Blazor | WebApi | Xamarin.Forms | Microservice | GRPC
+- 🌐 &nbsp; .NET 7/6/5/3 | MVC | Blazor | WebApi | Microservice | GRPC
 - 🛢 &nbsp; SqlServer | PostgreSql 
 - ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions
 
